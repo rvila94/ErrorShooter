@@ -1,0 +1,29 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Eclipse
+.project
+.classpath
+.settings/
+build.fxbuild
+
+# Build
+bin/
+build/
+out/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IntelliJ (si jamais)
+.idea/
+*.iml
+
+# VSCode (si jamais)
+.vscode/
