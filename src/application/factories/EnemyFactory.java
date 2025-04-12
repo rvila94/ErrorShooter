@@ -1,4 +1,4 @@
-package factories;
+package application.factories;
 
 import application.config.Constants;
 import application.entities.BigEnemy;
