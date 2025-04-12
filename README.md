@@ -6,7 +6,7 @@ Son but est de détruire les erreurs avant qu’il ne soit trop tard, tout en é
 
 ## Capture d'écran
 
-`./resources/screenshots/gameplay.jpeg`
+<img src="resources/screenshots/gameplay.jpeg" alt="Capture d’écran du jeu" width="333" height="466"/>
 
 ## Contrôles
 
