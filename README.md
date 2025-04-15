@@ -32,17 +32,17 @@ ci-dessous les controles par défaut.
 ### Étapes
 
 1. Téléchargez [JavaFX SDK 17](https://gluonhq.com/products/javafx/) et extrayez-le dans un dossier de votre choix.
-2. Téléchargez le fichier `ErrorShooter.jar` depuis la section [Releases](https://github.com/votre-utilisateur/ErrorShooter/releases) du dépôt GitHub.
+2. Téléchargez le fichier `ErrorShooter.jar` depuis la section [Releases](https://github.com/rvila94/ErrorShooter/releases/latest) du dépôt GitHub.
 3. Ouvrez un terminal ou une invite de commande dans le dossier contenant `ErrorShooter.jar`.
 4. Exécutez la commande suivante (en remplaçant le chemin par celui vers votre JavaFX SDK) :
 
-#### ▶️ Windows
+#### Windows
 
 ```bash
 java --module-path "\chemin\vers\javafx-sdk-17\lib" --add-modules javafx.controls,javafx.graphics -jar ErrorShooter.jar
 ```
 
-#### 🐧 Linux / macOS
+#### Linux / macOS
 
 ```bash
 java --module-path /chemin/vers/javafx-sdk-17/lib --add-modules javafx.controls,javafx.graphics -jar ErrorShooter.jar
