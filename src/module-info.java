@@ -1,7 +1,8 @@
 module ErrorShooter {
 	requires javafx.controls;
 	requires javafx.graphics;
-	requires org.junit.jupiter.api;
+	// DECOMENTE SI TU VEUX LES TESTS JUNIT
+	//requires org.junit.jupiter.api;
 	
 	opens application to javafx.graphics, javafx.fxml;
 }
